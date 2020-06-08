@@ -4,4 +4,4 @@ if your bot is here, please make sure that you are more careful with it: do not 
 
 this repo exists only to reset leaked tokens. Discord should auto-reset all tokens committed to GitHub; if it doesn't work, then that was not my intention.
 
-NjcxMzUzNjg2MDg5MjY5MjU5.Xi7tfw.FyIj_sje-RoPj3UBsVJX7dTVv3M
+NTU1Mzc2ODE1NDc3MzU4NTkz.D2qZwQ.0koGrKW58gBqP530kReqdu0QcZ4
